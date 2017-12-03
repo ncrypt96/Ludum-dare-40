@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boat
+  - Enemies
+  - Waves
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2634370515
+    locked: 0
+  - name: Sprite 6
+    uniqueID: 4271219013
+    locked: 0
+  - name: Sprite5
+    uniqueID: 390339151
+    locked: 0
+  - name: Sprite4
+    uniqueID: 1771425469
+    locked: 0
+  - name: Sprite3
+    uniqueID: 98327685
+    locked: 0
+  - name: Sprite2
+    uniqueID: 2790183839
+    locked: 0
+  - name: Sprite1
+    uniqueID: 1209305459
+    locked: 0
+  - name: Player Legs
+    uniqueID: 3092457895
+    locked: 0
+  - name: Player Legs1
+    uniqueID: 1631016463
+    locked: 0
